@@ -1,0 +1,13 @@
+delay,5,10
+keyPress,f5
+keyPress,ctrl,alt,del
+rclick
+refresh
+cut
+copy
+paste
+click
+findImage,imageName
+scroll,-1000
+pickText,fileName
+pickText,fileName,fileName2,fileName3
