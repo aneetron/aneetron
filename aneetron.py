@@ -167,7 +167,7 @@ commands = {
 }
 
 while True:
-    data = read_csv_file('./csv/comandos.csv')
+    data = read_csv_file('./csv/commands.csv')
     for row in data:
         action = commands.get(row[0])
         if action:

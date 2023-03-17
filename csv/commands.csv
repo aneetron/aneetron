@@ -7,7 +7,7 @@ cut
 copy
 paste
 click
-findImage,imageName
+findImage,browserRefresh
 scroll,-1000
 pickText,fileName
 pickText,fileName,fileName2,fileName3
